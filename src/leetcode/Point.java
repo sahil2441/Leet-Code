@@ -1,3 +1,4 @@
+package leetcode;
 
 public class Point {
 	int x;
