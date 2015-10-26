@@ -1,4 +1,4 @@
-package leetcode;
+
 
 /**
  * A string s of parentheses (“(” and “)”) and brackets (“[” and “]”) is matched

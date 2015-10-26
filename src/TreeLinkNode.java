@@ -1,4 +1,4 @@
-package leetcode;
+
 
 //Definition for binary tree with next pointer.
 public class TreeLinkNode {

@@ -1,4 +1,4 @@
-package leetcode;
+
 
 public class Numberof1Bits {
 	// you need to treat n as an unsigned value
