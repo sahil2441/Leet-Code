@@ -49,7 +49,6 @@ public class MaxPointsOnLine {
 	}
 
 	private static String generateKey(Point point, Point point2) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 }
